@@ -1,0 +1,24 @@
+{
+  "name": "@sneh_jarvis/hellopackage",
+  "version": "1.0.0",
+  "description": "hello utility",
+  "keywords": [
+    "hello",
+    "utility"
+  ],
+  "homepage": "https://github.com/Patel-Sneh13/hello-package#readme",
+  "bugs": {
+    "url": "https://github.com/Patel-Sneh13/hello-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patel-Sneh13/hello-package.git"
+  },
+  "license": "ISC",
+  "author": "ghost",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
